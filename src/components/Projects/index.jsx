@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: "=Global Outreach and Impact",
-    src: "miniques_lagoon.jpg",
+    src: "miniques_lagoon.jpeg",
   },
 ];
 
