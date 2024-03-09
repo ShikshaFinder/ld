@@ -11,11 +11,11 @@ const projects = [
   },
   {
     title: "Innovation and Research Focus",
-    src: "valle_de_la_muerte.jpeg",
+    src: "valle_de_la_muerte.jpg",
   },
   {
     title: "Industry-Academia Collaboration",
-    src: "miscani_lake.jpg",
+    src: "miscani_lake.jpeg",
   },
   {
     title: "=Global Outreach and Impact",
