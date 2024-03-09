@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Industry-Academia Collaboration",
-    src: "miscani_lake.jpeg",
+    src: "miscani_lake.jpg",
   },
   {
     title: "=Global Outreach and Impact",
