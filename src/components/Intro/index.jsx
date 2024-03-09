@@ -46,7 +46,7 @@ export default function Index() {
                             priority={true}
                         />
                     </div>
-                    <h1 data-scroll data-scroll-speed="0.7">SMOOTH SCROLL</h1>
+                    <h1 data-scroll data-scroll-speed="0.7">LD College Of Engineering</h1>
              </div>
         </div>
     )
