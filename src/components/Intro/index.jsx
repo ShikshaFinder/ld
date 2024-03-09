@@ -31,7 +31,7 @@ export default function Index() {
         <div className={styles.homeHeader}>
             <div className={styles.backgroundImage} ref={background}>
                 <Image 
-                    src={'/images/background.jpeg'}
+                    src={'/images/background.jpg'}
                     fill={true}
                     alt="background image"
                     priority={true}
